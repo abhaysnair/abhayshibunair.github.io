@@ -13,5 +13,6 @@
 ## My Intrests
 I am instrested in Rubik's cubes which I have been solving since I was around 9. Another thing I am intrested in Tennis. I have been playing tennis for many years and play on my school's team. I'm also intrested in playing video games such as Minecraft, Fifa, and Forza. Finally, I'm a black belt in Taekwondo and have been doing martial arts for almost 10 years. 
 ## Websites I Recomend
--[YouTube] (https://www.youtube.com/) I recomend YouTube since it offers users a veriety of benefits. First of all, YouTube offers hundreds of hours worth of entertainment in any desired catagory such as sports or video games. Additionaly, YouTube has many excelent educational videos that teach all sorts of subjects.
--[Google Keep] (https://keep.google.com/u/0/) I recomend Google Keep since it allows you to take notes, draw, add collaborators, and you can do it all from you'r phone or computer and sync them so you always have them. 
+-[YouTube](https://www.youtube.com/) I recomend YouTube since it offers users a veriety of benefits. First of all, YouTube offers hundreds of hours worth of entertainment in any desired catagory such as sports or video games. Additionaly, YouTube has many excelent educational videos that teach all sorts of subjects.
+
+-[Google Keep](https://www.keep.google.com/u/0/) I recomend Google Keep since it allows you to take notes, draw, add collaborators, and you can do it all from you'r phone or computer and sync them so you always have them. 
