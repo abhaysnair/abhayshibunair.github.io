@@ -9,7 +9,7 @@
 4. In order to clone my repository to my local machine, I had to click the plus icon, click "clone a repository", and find my repository in the GitHub desktop application.
 
 
-#About Me
+# About Me
 ## My Intrests
 I am instrested in Rubik's cubes which I have been solving since I was around 9. Another thing I am intrested in Tennis. I have been playing tennis for many years and play on my school's team. I'm also intrested in playing video games such as Minecraft, Fifa, and Forza. Finally, I'm a black belt in Taekwondo and have been doing martial arts for almost 10 years. 
 ## Websites I Recomend
