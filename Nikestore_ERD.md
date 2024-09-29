@@ -53,7 +53,7 @@ CUSTOMER ||--o{ PRODUCT: "interested in"
 
 -**Product to inventory** This relationship is a one-to-one/many relationships. This is because each product has one or more in inventory. This allows the store to track how many of each product are in stock and where they are. 
 
--**Customer to product** This relationship is a many-to-many relationship. This is because many customers could have many different producst that they are interested in and like. This allows the store to identify which products customers like. 
+-**Customer to product** This relationship is a many-to-many relationship. This is because many customers could have many different products that they are interested in and like. This allows the store to identify which products customers like.
 
 ## Significance of Relationship
 
@@ -63,4 +63,4 @@ CUSTOMER ||--o{ PRODUCT: "interested in"
 
 -**Product to inventory** This relationship is important since it helps the store manage its inventory efficiently. This allows the store to keep track of inventory and reorder the products that are selling well. 
 
--**Customer to product** This relationship is important since it helps the store identify which products the customers like the most. This allows the store to make new products tailored to the intrests of their customers. Additionally, it can help the stores with marketing since they know which products to advertise more. 
+-**Customer to product** This relationship is important since it helps the store identify which products the customers like the most. This allows the store to make new products tailored to the interests of their customers. Additionally, it can help the stores with marketing since they know which products to advertise more.
