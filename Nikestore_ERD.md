@@ -28,7 +28,7 @@ erDiagram
  INVENTORY {
     int product_id FK 
     int quantity
-    string wearhouse_location
+    string warehouse_location
  }
 
 PRODUCT ||--o{ SALE : "purchased in"
