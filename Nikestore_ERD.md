@@ -34,6 +34,7 @@ erDiagram
 PRODUCT ||--o{ SALE : "purchased in"
 CUSTOMER ||--o{ SALE : "makes"
 PRODUCT ||--o{ INVENTORY : "stored in"
+CUSTOMER ||--o{ PRODUCT: "interested in"
 
 ```
 ## Entity Description 
@@ -52,6 +53,8 @@ PRODUCT ||--o{ INVENTORY : "stored in"
 
 -**Product to inventory** This relationship is a one-to-one/many relationships. This is because each product has one or more in inventory. This allows the store to track how many of each product are in stock and where they are. 
 
+-**Customer to product** This relationship is a many-to-many relationship. This is because many customers could have many different producst that they are interested in and like. This allows the store to identify which products customers like. 
+
 ## Significance of Relationship
 
 -**Customer to sale** This relationship is important since it allows the store to see which customers are making purchases. This is done by linking each sale to a specific customer. It can help the store get data on preferences and purchase history to see what items customers like. 
@@ -59,4 +62,5 @@ PRODUCT ||--o{ INVENTORY : "stored in"
 -**Product to sale** This relationship is crucial since it allows the store to track the demand for each shoe. This allows the store to find out which shoes have high demand and predict future demand
 
 -**Product to inventory** This relationship is important since it helps the store manage its inventory efficiently. This allows the store to keep track of inventory and reorder the products that are selling well. 
- 
+
+-**Customer to product** This relationship is important since it helps the store identify which products the customers like the most. This allows the store to make new products tailored to the intrests of their customers. Additionally, it can help the stores with marketing since they know which products to advertise more. 
